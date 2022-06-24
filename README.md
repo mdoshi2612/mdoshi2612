@@ -22,11 +22,11 @@ Timezone: Asia/India (IST)
 <br />
 <p>In one of my latest projects, I created a pipeline to track an object in temporal space from a camera mounted on a drone. Due to the constraints on computation power, the model had to be well optimised and give accurate results. This was acheived by coupling a YOLOv4-tiny model with a Kalman Filter - a robust state estimation technqiue</p>
 
-<p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
+<p>:muscle: I am currently ... focused on winning International Aerial Robotics Competition(IARC) Mission 9</p>
 <p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p>
+<p>:ghost: Fun fact: ... I majored in Mechanical Engineering, but I am a huge coding enthusiast </p>
 
 <br />
 <br />
@@ -53,9 +53,5 @@ Timezone: Asia/India (IST)
 ---
 
 <br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdoshi&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoshi&layout=compact&theme=radical" width="400" />
-</p>
 
 ---
