@@ -24,9 +24,9 @@ Timezone: Asia/India (IST)
 
 <p>:muscle: I am currently ... focused on winning International Aerial Robotics Competition(IARC) Mission 9</p>
 <p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
+<p>:raising_hand: I’m looking to collaborate with ... build a career in Machine Learning and Data Science</p>
 <p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I majored in Mechanical Engineering, but I am a huge coding enthusiast </p>
+<p>:ghost: Fun fact: ... I majored in Mechanical Engineering, but I am a huge coding enthusiast.</p>
 
 <br />
 <br />
