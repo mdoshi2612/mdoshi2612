@@ -10,7 +10,7 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught coder since 2018 with an interest in Machine Learning and Web Developement</p>
+<p align="center">Enthusiastic selftaught coder since 2020 with an interest in Machine Learning and Web Developement</p>
 <p>I am an undergraduate student at Indian Institute of Technology Bombay purusing a Bachelors degree in Mechanical Engineering. My expertise and interest lies primarily in Machine Learning and Robotics. I've also been working in other upcoming and interdisciplinary fields like Systems and Controls Engineering and Reinforcement Learning.</p>
 <br />
 
