@@ -3,33 +3,15 @@
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/manav-doshi-871b091b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="ROS" /></a>&nbsp;
 <a href="mailto:doshimanav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" /></a>&nbsp;
 <a href="https://github.com/mdoshi2612"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp
 <a href = "https://twitter.com/odysseus2612"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught coder since 2020 with an interest in Machine Learning and Web Developement</p>
-<p>I am an undergraduate student at Indian Institute of Technology Bombay purusing a Bachelors degree in Mechanical Engineering. My expertise and interest lies primarily in Machine Learning and Robotics. I've also been working in other upcoming and interdisciplinary fields like Systems and Controls Engineering and Reinforcement Learning.</p>
+<p>I am currently a graduate student in the CS department at UC San Diego, specialising in Mahchine Learning and Artificial Intelligence. I recently graduated from Indian Institute of Technology Bombay with a Bachelors degree in Mechanical Engineering. My expertise and interest lies primarily in Machine Learning and Software Engineering. I've also been working in other upcoming and interdisciplinary fields like Systems and Controls Engineering and Reinforcement Learning.</p>
 <br />
 
-<h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Asia/India (IST)
-</p>
-<br />
-<p>In one of my latest projects, I created a pipeline to track an object in temporal space from a camera mounted on a drone. Due to the constraints on computation power, the model had to be well optimised and give accurate results. This was acheived by coupling a YOLOv4-tiny model with a Kalman Filter - a robust state estimation technqiue</p>
-
-<p>:muscle: I am currently ... focused on winning International Aerial Robotics Competition(IARC) Mission 9</p>
-<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
-<p>:raising_hand: I’m looking to collaborate with ... build a career in Machine Learning and Data Science</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I majored in Mechanical Engineering, but I am a huge coding enthusiast.</p>
-
-<br />
-<br />
-<p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
